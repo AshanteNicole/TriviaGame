@@ -20,7 +20,7 @@ var gameTimer
 var trivia = {
     correctAnswers: 0,
     wrongAnswers: 0,
-    time: 45,
+    time: 60,
     myTimer: function () {
         gameTimer = setInterval(function () {
             trivia.time--
