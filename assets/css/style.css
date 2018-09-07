@@ -1,0 +1,32 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/ZSM48St.jpg);   
+       height: 500%;
+       position: static;
+       /* Center and scale the image nicely */
+       background-repeat:no-repeat;
+       background-size: cover;
+    
+}
+
+#header{
+    font-size: 5vw;
+    text-shadow: 6px 5px rgb(231, 70, 29);
+    color: rgb(60, 8, 180);
+  
+}
+
+#startTimer{
+   color:  rgb(60, 8, 180);
+}
+        
+.container{
+    margin-right: 800px;
+     margin-left: 500px;
+     background-color: rgb(205, 205, 214);
+   }
+
+.questions{
+    font-size: 1.2rem;
+    font-weight: bold;
+    }
+
